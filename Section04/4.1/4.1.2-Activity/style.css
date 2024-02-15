@@ -1,0 +1,38 @@
+#myList{
+  color:blueviolet;
+}
+
+ul .secondList{
+  color: green;
+}
+
+p, h1{
+  background: grey;
+}
+
+ol>li{
+  color:aliceblue;
+  background-color: darkblue;
+}
+
+h1 + h2 {
+  color: green;
+}
+
+* {
+  border: 2px solid purple;
+}
+
+div {
+  padding: 1px;
+  margin-left: 3px;
+}
+
+li:hover {
+  color: green;
+  background-color: black;
+}
+
+a:visited{
+  color: rgb(45, 245, 6);
+}
